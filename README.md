@@ -1,6 +1,7 @@
-Mehmet KAHRAMAN / Mechatronics Engineer
+Mehmet KAHRAMAN / Mechatronics Engineer  
 Sakarya University Faculty of Technology
-E-mail -> b180918012@subu.edu.tr
+
+E-mail -> b180918012@subu.edu.tr  
 Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-9629a4186/
 
 AREAS OF INTEREST:
