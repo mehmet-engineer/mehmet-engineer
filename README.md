@@ -8,7 +8,7 @@ AREAS OF INTEREST:
 Robotics, Kinematics, Unmanned Aerial Vehicles, Autonomous Systems,
 Statistics, Data Science, Artifical Intelligence and Computer Vision Softwares,
 Machine Learning, Deep Learning, Artificial Neural Networks, Convolutional Neural Networks,
-Electronic Circuits, Microcontrollers, Assembly and C for PIC and Atmel.
+Electronic Circuits, Microcontrollers, Assembly and C-XC8 for PIC and Atmel.
 
 SKILLS:
 Python Developer (advanced), Object Oriented Programming,
