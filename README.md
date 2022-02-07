@@ -5,7 +5,7 @@ E-mail -> b180918012@subu.edu.tr
 Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-9629a4186/
 
 AREAS OF INTEREST:
-Robotics, ROS, Kinematics, Unmanned Aerial Vehicles, Autonomous Systems,
+Robotics, ROS, AGV, Kinematics, Unmanned Aerial Vehicles, Autonomous Systems,
 Statistics, Data Science, Artifical Intelligence and Computer Vision Softwares,
 Machine Learning, Deep Learning, Artificial Neural Networks, Convolutional Neural Networks,
 Electronic Circuits, Microcontrollers, Assembly and C-XC8 for PIC and Atmel.
