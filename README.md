@@ -70,5 +70,5 @@ Linux User, Computer Vision Enthusiast, AI Researcher
  - OpenCV, MATLAB, Pytorch, Tensorflow, Keras, Sci-kit learn,
  - YOLO Object Detection Algorithms,
  - Numpy, Pandas, Matplotlib,
- - Linux, Ubuntu, Robot Operating System (ROS), Gazebo, Rviz,
+ - Linux, Ubuntu, Robot Operating System (ROS), Moveit, Gazebo, Rviz,
  - Arduino, Raspberry Pi, Nvidia Jetson Nano.
