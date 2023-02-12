@@ -1,6 +1,7 @@
-Mehmet KAHRAMAN / Mechatronics Engineer  
-Sakarya University Faculty of Technology
-mehmet.kahraman@mcflyrobot.com
+## Mehmet KAHRAMAN
+**_Mechatronics and Robotics Software Engineer_**
+
+_Mail: mehmet.kahraman@mcflyrobot.com_
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mehmet-kahraman-9629a4186/">
@@ -11,8 +12,10 @@ mehmet.kahraman@mcflyrobot.com
   </a>
 </div>
 
-E-mail -> b180918012@subu.edu.tr  
-Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-9629a4186/
+<p align="center">
+I am a Robotics expert, Mechatronics engineer, ROS developer, 
+    Computer Vision engineer, AI researcher, 
+</p>
 
 AREAS OF INTEREST:
 Robotics, ROS, AGV, Unmanned Aerial Vehicles, Autonomous Systems,
