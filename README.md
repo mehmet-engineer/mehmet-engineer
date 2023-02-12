@@ -32,6 +32,8 @@ Linux User, Computer Vision Enthusiast, AI Researcher
   <img src="https://user-images.githubusercontent.com/97724568/218314543-b604eeaf-0f3a-42b2-a797-99697964ad4e.png" width="85" height="85"/>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-engineer&layout=compact&theme=vision-friendly-dark)
+
 ---
 ### Library and Platforms
 <div id="badges" align="left">
@@ -56,21 +58,17 @@ Linux User, Computer Vision Enthusiast, AI Researcher
   <img src="https://user-images.githubusercontent.com/97724568/218316687-cb43fe81-8848-487a-b7fe-ecf6a99b2b23.png" width="90" height="35"/>
 </div>
 
+---
 ### Areas of Interest
-Robotics, ROS, AGV, Unmanned Aerial Vehicles, Autonomous Systems,
-Statistics, Data Science, Artifical Intelligence and Computer Vision Softwares,
-Data Analysis, Machine Learning, Deep Learning, Convolutional Neural Networks.
+ - Robotics, Autonomous Systems, Robotic Manipulators, Cobots, Soft Robots, Mobile Robots, AGVs, Rovers, Unmanned Aerial Vehicles, 
+ - Control Systems, PID Control, Kinematics, Dynamics, Linear Algebra, 
+ - Statistics, Data Science, Data Visualization, Image Processing, Computer Vision,
+ - Artifical Intelligence, Machine Learning, Deep Learning, Convolutional Neural Networks.
 
 ### All My Skills
-Python Developer (advanced), C++, Object Oriented Programming,
-OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn,
-YOLO Object Detection Algorithms,
-PyQT5, Numpy, Pandas, Matplotlib, Seaborn Libraries,
-Microsoft Office Excel (advanced), Data Visualization,
-Sqlite, Dronekit, Mavlink Protocol, Drone Programming,
-Proteus Simulations, MPLAB PIC, ESP32 Embedded Software,
-MATLAB and Simulink, System Modeling, PID Control,
-Linux User, Robot Operating System, Gazebo, ROS developer,
-Arduino, Raspberry Pi and Jetson Nano Programmer,
-Siemens S7-1200 PLC Programming,
-3D CAD Designer, SolidWorks Modeling.
+ - Python, C++, Object Oriented Programming (OOP),
+ - OpenCV, MATLAB, Pytorch, Tensorflow, Keras, Sci-kit learn,
+ - YOLO Object Detection Algorithms,
+ - Numpy, Pandas, Matplotlib,
+ - Linux, Ubuntu, Robot Operating System (ROS), Gazebo, Rviz,
+ - Arduino, Raspberry Pi, Nvidia Jetson Nano.
