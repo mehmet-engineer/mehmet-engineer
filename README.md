@@ -32,8 +32,6 @@ Linux User, Computer Vision Enthusiast, AI Researcher
   <img src="https://user-images.githubusercontent.com/97724568/218314543-b604eeaf-0f3a-42b2-a797-99697964ad4e.png" width="85" height="85"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-engineer&layout=compact&theme=vision-friendly-dark)
-
 ---
 ### Library and Platforms
 <div id="badges" align="left">
