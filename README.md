@@ -67,9 +67,9 @@ Linux User, Computer Vision Enthusiast, AI Researcher
  - Artifical Intelligence, Machine Learning, Deep Learning, Convolutional Neural Networks.
 
 ### All My Skills
- - Python, C++, Object Oriented Programming (OOP),
- - OpenCV, MATLAB, Pytorch, Tensorflow, Keras, Sci-kit learn,
- - YOLO Object Detection Algorithms,
- - Numpy, Pandas, Matplotlib,
+ - Python, C++, MATLAB, Object Oriented Programming (OOP),
+ - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn,
+ - YOLO and SSD Object Detection Algorithms,
+ - Numpy, Pandas, Matplotlib, PyQT
  - Linux, Ubuntu, Robot Operating System (ROS), Moveit, Gazebo, Rviz,
  - Arduino, Raspberry Pi, Nvidia Jetson Nano.
