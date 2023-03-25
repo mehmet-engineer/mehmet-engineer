@@ -61,15 +61,19 @@ Linux User, Computer Vision Enthusiast, AI Researcher
 
 ---
 ### Areas of Interest
- - Robotics, Autonomous Systems, Robotic Manipulators, Cobots, Soft Robots, Mobile Robots, AGVs, Rovers, Unmanned Aerial Vehicles, 
- - Control Systems, PID Control, Kinematics, Dynamics, Linear Algebra, 
+ - Robotics, Autonomous Systems, Robotic Manipulators, Cobots, Mobile Robots, AGVs, Rovers, Autonomous Systems, 
+ - Control Systems, Linear Control, PID Control, Kinematics, Dynamics, Linear Algebra, 
  - Statistics, Data Science, Data Visualization, Image Processing, Computer Vision,
  - Artifical Intelligence, Machine Learning, Deep Learning, Convolutional Neural Networks.
 
 ### All My Skills
  - Python, C++, MATLAB, Object Oriented Programming (OOP),
  - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn,
- - YOLO and SSD Object Detection Algorithms,
- - Numpy, Pandas, Matplotlib, PyQT
- - Linux, Ubuntu, Robot Operating System (ROS), Moveit, Gazebo, Rviz,
- - Arduino, Raspberry Pi, Nvidia Jetson Nano.
+ - YOLOv4, YOLOv5 and SSD Object Detection Algorithms,
+ - Multithreading, Multitasking,
+ - PyQt5 GUI App Development,
+ - Excel, Numpy, Pandas, Matplotlib, Data Analysis and Visualization,
+ - Linux, Ubuntu, Robot Operating System (ROS), 
+ - Moveit, Gazebo, Rviz, KDL, Eigen, Moveit, 
+ - Arduino, Raspberry Pi, Nvidia Jetson Nano,
+ - ESP32 Embedded Software.
