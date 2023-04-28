@@ -74,6 +74,7 @@ Linux User, Computer Vision Enthusiast, AI Researcher
  - PyQt5 GUI App Development,
  - Excel, Numpy, Pandas, Matplotlib, Data Analysis and Visualization,
  - Linux, Ubuntu, Robot Operating System (ROS), 
+ - ABB Robot Studio, Rapid Language,
  - Moveit, Gazebo, Rviz, KDL, Eigen, Moveit, 
  - Arduino, Raspberry Pi, Nvidia Jetson Nano,
  - ESP32 Embedded Software.
