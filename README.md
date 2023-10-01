@@ -95,3 +95,4 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
  - Github -> https://github.com/mehmet-engineer
  - Fiverr -> https://www.fiverr.com/mehmetengineer
  - Udemy -> https://www.udemy.com/user/mehmet-kahraman-38
+ - Kariyer Net -> https://www.kariyer.net/ozgecmis/mehmetkahraman2000
