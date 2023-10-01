@@ -17,15 +17,22 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
   <a href="https://www.fiverr.com/mehmetengineer">
     <img src="https://img.shields.io/badge/Fiverr-green?logo=Fiverr" width="100"/>
   </a>
+  <a href="https://www.udemy.com/user/mehmet-kahraman-38">
+    <img src="https://img.shields.io/badge/Udemy-purple" width="85"/>
+  </a>
 </div>
 
 <p align="center"> </p>
 <p align="center"> 
-I am Robotics Expert, Mechatronics Engineer, ROS Developer
+<strong>I am Robotics Expert, Mechatronics Engineer, ROS Developer</strong>
 </p>
 <p align="center"> 
-Linux User, Computer Vision Enthusiast, AI Researcher
+<strong>Linux User, Computer Vision Enthusiast, AI Researcher</strong>
 </p>
+
+After successfully completing the Technical English education at the College of Foreign Languages, I graduated from Sakarya University of Applied Sciences, Faculty of Technology, Department of Mechatronics Engineering with a GPA of 3.2. I worked as a project manager at the SAU Robotics Association. I succeeded in various competitions such as Teknofest Unmanned Aerial Vehicles finalist, Digital Technologies in Industry team captain, Artificial Intelligence Competition Turkey 6th place and best presentation award. The robotic system I developed was supported by TUBITAK. I realized my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am working as a Robotic Software Engineer in a robot technologies company in the research and development department.
+
+I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Statistics, Data Science, Machine Learning, Deep Learning, Artificial Neural Networks, and Image Processing.
 
 ---
 ### Languages
@@ -61,20 +68,30 @@ Linux User, Computer Vision Enthusiast, AI Researcher
 
 ---
 ### Areas of Interest
- - Robotics, Autonomous Systems, Robotic Manipulators, Cobots, Mobile Robots, AGVs, Rovers, Autonomous Systems, 
+ - Robotics, Robotic Manipulators, Cobots, Mobile Robots, AGVs, Rovers, Autonomous Systems, 
  - Control Systems, Linear Control, PID Control, Kinematics, Dynamics, Linear Algebra, 
  - Statistics, Data Science, Data Visualization, Image Processing, Computer Vision,
  - Artifical Intelligence, Machine Learning, Deep Learning, Convolutional Neural Networks.
 
 ### All My Skills
- - Python, C++, MATLAB, Object Oriented Programming (OOP),
- - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn,
- - YOLOv4, YOLOv5 and SSD Object Detection Algorithms,
+ - Python, C++, CMake, MATLAB, Object Oriented Programming (OOP),
+ - ROS1, ROS2, Linux, Ubuntu, Docker, Github, Gitlab,
+ - ABB Robot Studio, Rapid Programming Language,
+ - Han's Robot, Universal Robot, TM Omron robot programs,
+ - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
+ - Web Javascript, PyQT5, GUI and Desktop App Development,
  - Multithreading, Multitasking,
  - PyQt5 GUI App Development,
- - Excel, Numpy, Pandas, Matplotlib, Data Analysis and Visualization,
- - Linux, Ubuntu, Robot Operating System (ROS), 
- - ABB Robot Studio, Rapid Language,
- - Moveit, Gazebo, Rviz, KDL, Eigen, Moveit, 
- - Arduino, Raspberry Pi, Nvidia Jetson Nano,
- - ESP32 Embedded Software.
+ - Numpy, Pandas, Data Manipulation Libraries,
+ - Office Excel (advanced), Matplotlib, Data Visualization,
+ - MPLAB PIC XC-8, ESP32 Embedded Software,
+ - MATLAB and Simulink, PID Control, Linear Control,
+ - Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
+ - Siemens S7-1200 PLC Programming,
+ - SolidWorks 3D Modeling.
+
+### Contacts
+ - Mail -> mehmet.kahraman@mcflyrobot.com
+ - Github -> https://github.com/mehmet-engineer
+ - Fiverr -> https://www.fiverr.com/mehmetengineer
+ - Udemy -> https://www.udemy.com/user/mehmet-kahraman-38
