@@ -11,7 +11,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
   <a href="https://www.linkedin.com/in/mehmet-kahraman-9629a4186/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="120"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBBNMqcpmBFGhzdprmPLFFGwMbGrPCtqqFhncQqJPJQVgWksSJtbkkDxWXDNGtxfJTbDB">
+  <a href="mailto:mehmet.kahraman@mcflyrobot.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
   </a>
   <a href="https://www.fiverr.com/mehmetengineer">
