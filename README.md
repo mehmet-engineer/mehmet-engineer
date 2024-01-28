@@ -24,7 +24,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 
 <p align="center"> </p>
 <p align="center"> 
-<strong>I am Robotics Expert, Mechatronics Engineer, ROS Developer</strong>
+<strong>I am Robotics Expert, Mechatronics and Control Software Engineer, ROS Developer</strong>
 </p>
 <p align="center"> 
 <strong>Linux User, Computer Vision Enthusiast, AI Researcher</strong>
@@ -32,7 +32,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 
 After successfully completing the Technical English education at the College of Foreign Languages, I graduated from Sakarya University of Applied Sciences, Faculty of Technology, Department of Mechatronics Engineering with a GPA of 3.2. I worked as a project manager at the SAU Robotics Association. I succeeded in various competitions such as Teknofest Unmanned Aerial Vehicles finalist, Digital Technologies in Industry team captain, Artificial Intelligence Competition Turkey 6th place and best presentation award. The robotic system I developed was supported by TUBITAK. I realized my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am working as a Robotic Software Engineer in a robot technologies company in the research and development department.
 
-I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Statistics, Data Science, Machine Learning, Deep Learning, Artificial Neural Networks, and Image Processing.
+I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Probability, Sensor Fusion, Kalman Filters, Statistics, Data Science, Genetic Algorithms and Image Processing.
 
 ---
 ### Languages
@@ -69,26 +69,27 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 ---
 ### Areas of Interest
  - Robotics, Robotic Manipulators, Cobots, Mobile Robots, AGVs, Rovers, Autonomous Systems, 
- - Control Systems, Linear Control, PID Control, Kinematics, Dynamics, Linear Algebra, 
- - Statistics, Data Science, Data Visualization, Image Processing, Computer Vision,
- - Artifical Intelligence, Machine Learning, Deep Learning, Convolutional Neural Networks.
+ - Control Theory, Linear Control Systems, PID Control, Kinematics, Dynamics, Linear Algebra,
+ - Sensor Fusion, Probability, Kalman Filters, Low Pass Filters,
+ - Genetic Algorithms, Statistics, Data Science, Data Visualization, Image Processing,
+ - Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Convolutional Neural Networks.
 
 ### All My Skills
- - Python, C++, CMake, MATLAB, Object Oriented Programming (OOP),
- - ROS1, ROS2, Linux, Ubuntu, Docker, Github, Gitlab,
- - ABB Robot Studio, Rapid Programming Language,
- - Han's Robot, Universal Robot, TM Omron robot programs,
- - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
- - Web Javascript, PyQT5, GUI and Desktop App Development,
- - Multithreading, Multitasking,
- - PyQt5 GUI App Development,
- - Numpy, Pandas, Data Manipulation Libraries,
- - Office Excel (advanced), Matplotlib, Data Visualization,
- - MPLAB PIC XC-8, ESP32 Embedded Software,
- - MATLAB and Simulink, PID Control, Linear Control,
- - Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
- - Siemens S7-1200 PLC Programming,
- - SolidWorks 3D Modeling.
+- Python, C++, CMake, Object Oriented Programming (OOP),
+- ROS1, ROS2, Linux, Ubuntu, Docker, Git, Github,
+- IPC Socket Programming, TCP and UNIX Sockets,
+- ABB Robot Studio, Rapid Programming Language,
+- Universal Robot, TM Omron, Han's Robot programming,
+- OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
+- Web Javascript, PyQT5, GUI and Desktop App Development, 
+- Multithreading, Multitasking, Concurrency, Parallelism,
+- Numpy, Pandas, Data Manipulation Libraries,
+- Office Excel (advanced), Matplotlib, Data Visualization,
+- MATLAB and Simulink, PID Control, Linear Control,
+- Kalman Filters, Low Pass Filters, Sensor Fusion,
+- Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
+- Siemens S7-1200 PLC Programming,
+- SolidWorks 3D Modeling.
 
 ### Contacts
  - Mail -> mehmet.kahraman@mcflyrobot.com
