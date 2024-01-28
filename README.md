@@ -93,6 +93,7 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 
 ### Contacts
  - Mail -> mehmet.kahraman@mcflyrobot.com
+ - Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-9629a4186
  - Github -> https://github.com/mehmet-engineer
  - Fiverr -> https://www.fiverr.com/mehmetengineer
  - Udemy -> https://www.udemy.com/user/mehmet-kahraman-38
