@@ -3,9 +3,7 @@
 
 _Mail: mehmet.kahraman@mcflyrobot.com_
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/97724568/218312710-5244a8ee-4b0d-4f6f-90e1-14d9faff9d6d.jpg" width="400" height="250"/>
-</div>
+![](cover.png)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mehmet-kahraman-9629a4186/">
@@ -30,9 +28,11 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 <strong>Linux User, Computer Vision Enthusiast, AI Researcher</strong>
 </p>
 
-After successfully completing the Technical English education at the College of Foreign Languages, I graduated from Sakarya University of Applied Sciences, Faculty of Technology, Department of Mechatronics Engineering with a GPA of 3.2. I worked as a project manager at the SAU Robotics Association. I succeeded in various competitions such as Teknofest Unmanned Aerial Vehicles finalist, Digital Technologies in Industry team captain, Artificial Intelligence Competition Turkey 6th place and best presentation award. The robotic system I developed was supported by TUBITAK. I realized my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am working as a Robotic Software Engineer in a robot technologies company in the research and development department.
+As a robotics software engineer, with 5 years of experience, I specialize in computer science, robotics, software solutions, data analysis, and technical writing. My expertise spans various programming languages, office tools, allowing me to deliver innovative solutions. I succeeded in various competitions such as Teknofest Unmanned Aerial Vehicles finalist, Digital Technologies in Industry team captain, Artificial Intelligence Competition Turkey 6th place and best presentation award. The robotic system I developed was supported by TUBITAK. I realized my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am working as a Robotic Software Engineer in a robot technologies company in the research and development department.
 
-I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Probability, Sensor Fusion, Kalman Filters, Statistics, Data Science, Genetic Algorithms and Image Processing.
+I am an advanced Python and C++ developer, Robotics expert, Control Software engineer, Linux user, Computer Vision enthusiast and Artificial Intelligence researcher.
+
+I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning, Reinforcement Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Probability, Sensor Fusion, Kalman Filters, Statistics, Data Science, Optimization, Genetic Algorithms and Image Processing.
 
 ---
 ### Languages
@@ -78,22 +78,23 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 - Python, C++, CMake, Object Oriented Programming (OOP),
 - ROS1, ROS2, Linux, Ubuntu, Docker, Git, Github,
 - IPC Socket Programming, TCP and UNIX Sockets,
-- ABB Robot Studio, Rapid Programming Language,
+- ABB Robot Studio, Rapid Language, RoboDK, FlexSim,
 - Universal Robot, TM Omron, Han's Robot programming,
 - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
 - Web Javascript, PyQT5, GUI and Desktop App Development, 
 - Multithreading, Multitasking, Concurrency, Parallelism,
-- Numpy, Pandas, Data Manipulation Libraries,
+- Numpy, Pandas, Data Entry, Data Manipulation Libraries,
 - Office Excel (advanced), Matplotlib, Data Visualization,
 - MATLAB and Simulink, PID Control, Linear Control,
 - Kalman Filters, Low Pass Filters, Sensor Fusion,
 - Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
 - Siemens S7-1200 PLC Programming,
+- EtherCAT and MODBUS,
 - SolidWorks 3D Modeling.
 
 ### Contacts
  - Mail -> mehmet.kahraman@mcflyrobot.com
- - Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-9629a4186
+ - Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-robotics-engineer
  - Github -> https://github.com/mehmet-engineer
  - Fiverr -> https://www.fiverr.com/mehmetengineer
  - Udemy -> https://www.udemy.com/user/mehmet-kahraman-38
