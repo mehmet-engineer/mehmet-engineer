@@ -6,7 +6,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 ![](cover.png)
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mehmet-kahraman-9629a4186/">
+  <a href="https://www.linkedin.com/in/mehmet-kahraman-robotics-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="120"/>
   </a>
   <a href="mailto:mehmet.kahraman@mcflyrobot.com">
