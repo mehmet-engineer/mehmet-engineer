@@ -28,7 +28,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 <strong>Linux User, Computer Vision Enthusiast, AI Researcher</strong>
 </p>
 
-As a robotics software engineer, with 5 years of experience, I specialize in computer science, robotics, software solutions, data analysis, and technical writing. My expertise spans various programming languages, office tools, allowing me to deliver innovative solutions. I succeeded in various competitions such as Teknofest Unmanned Aerial Vehicles finalist, Digital Technologies in Industry team captain, Artificial Intelligence Competition Turkey 6th place and best presentation award. The robotic system I developed was supported by TUBITAK. I realized my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am working as a Robotic Software Engineer in a robot technologies company in the research and development department.
+As a R&D Robotic Software Engineer, with 4 years of experience, I specialize in robotics, computer science, and software development, offering innovative solutions to complex problems. My expertise covers a wide range of programming languages and tools, data analysis, AI techniques, and technical documentation. I completed my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am currently working as a Robotic Software Engineer in a robot technologies company in the research and development department.
 
 I am an advanced Python and C++ developer, Robotics expert, Control Software engineer, Linux user, Computer Vision enthusiast and Artificial Intelligence researcher.
 
@@ -77,8 +77,9 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 ### All My Skills
 - Python, C++, CMake, Object Oriented Programming (OOP),
 - ROS1, ROS2, Linux, Ubuntu, Docker, Git, Github,
-- IPC Socket Programming, TCP and UNIX Sockets,
-- ABB Robot Studio, Rapid Language, RoboDK, FlexSim,
+- Jira Project Management, Scrum & Agile Methodologies,
+- IPC Socket Programming, ZeroMQ, TCP and UNIX Sockets,
+- ABB Robot Studio, Rapid, RoboDK, FlexSim, SprutCAM, ENCY,
 - Universal Robot, TM Omron, Han's Robot programming,
 - OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
 - Web Javascript, PyQT5, GUI and Desktop App Development, 
@@ -86,11 +87,9 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 - Numpy, Pandas, Data Entry, Data Manipulation Libraries,
 - Office Excel (advanced), Matplotlib, Data Visualization,
 - MATLAB and Simulink, PID Control, Linear Control,
-- Kalman Filters, Low Pass Filters, Sensor Fusion,
+- Sensor Fusion, Kalman Filters, Low Pass Filters,
 - Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
-- Siemens S7-1200 PLC Programming,
-- EtherCAT and MODBUS,
-- SolidWorks 3D Modeling.
+- EtherCAT and MODBUS.
 
 ### Contacts
  - Mail -> mehmet.kahraman@mcflyrobot.com
