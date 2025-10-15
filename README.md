@@ -3,7 +3,7 @@
 
 _Mail: kahramanxx10@gmail.com_
 
-![](cover.png)
+![](my_cover.png)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mehmet-kahraman-robotics-engineer/">
