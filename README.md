@@ -1,7 +1,7 @@
 ## Mehmet KAHRAMAN
-**_Mechatronics and Robotics Software Engineer_**
+**_Mechatronics and R&D Robotics Software Engineer_**
 
-_Mail: mehmet.kahraman@mcflyrobot.com_
+_Mail: kahramanxx10@gmail.com_
 
 ![](cover.png)
 
@@ -9,7 +9,7 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
   <a href="https://www.linkedin.com/in/mehmet-kahraman-robotics-engineer/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" width="120"/>
   </a>
-  <a href="mailto:mehmet.kahraman@mcflyrobot.com">
+  <a href="mailto:kahramanxx10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100"/>
   </a>
   <a href="https://www.fiverr.com/mehmetengineer">
@@ -21,16 +21,16 @@ _Mail: mehmet.kahraman@mcflyrobot.com_
 </div>
 
 <p align="center"> </p>
-<p align="center"> 
-<strong>I am Robotics Expert, Mechatronics and Control Software Engineer, ROS Developer</strong>
-</p>
-<p align="center"> 
-<strong>Linux User, Computer Vision Enthusiast, AI Researcher</strong>
-</p>
 
-As a R&D Robotic Software Engineer, with 4 years of experience, I specialize in robotics, computer science, and software development, offering innovative solutions to complex problems. My expertise covers a wide range of programming languages and tools, data analysis, AI techniques, and technical documentation. I completed my graduation thesis on AI supported ROS-based robotic arm with autonomous grasping ability. I gave lectures as an instructor on Udemy. I am currently working as a Robotic Software Engineer in a robot technologies company in the research and development department.
+As a R&D Software Engineer, with 4 years of experience, I specialize in robotics, computer science, software development, and autonomous systems, offering innovative solutions to complex problems. I have contributed to a wide range of research-driven engineering projects. My background uniquely combines algorithmic programming, real-time system design, AI integration, and scientific problem-solving, making me a strong fit for advanced R&D environments.
 
-I am an advanced Python and C++ developer, Robotics expert, Control Software engineer, Linux user, Computer Vision enthusiast and Artificial Intelligence researcher.
+I have built a strong background in Python, C++, and MATLAB, with a strong command of Object-Oriented Programming, algorithm design, and software architecture. Throughout my career, I have developed modular and scalable software solutions for autonomous systems and intelligent control systems. I prioritize efficient and high-performance programming using multithreading and inter-process communication. I have complemented these skills with experience using Git/GitHub, Linux/Ubuntu, and modern development workflows, allowing me to design, build, and maintain robust software infrastructures.
+
+My professional experience includes intensive work with ROS1 and ROS2, robot control tools, and autonomous systems development. I have designed ROS-based software packages, deployed custom robotic applications, and integrated perception, motion planning, and control algorithms into real-world systems. I have also contributed to human-robot collaboration projects, cobots and mobile robots. In addition, I have hands-on experience with GUI and human–machine interaction applications, developing user-friendly tools that enhance system operability and visualization.
+
+My scientific and technical background is supported by a strong foundation in kinematics, dynamics, linear algebra, control theory, and statistics. This scientific mindset has allowed me to approach engineering problems analytically and design mathematically sound solutions. I have applied these principles to real-world robotic systems, AI-driven simulations, and advanced control mechanisms. In the fields of AI, Deep Learning, Reinforcement Learning, and Computer Vision, I have worked on developing intelligent control strategies, perception algorithms, and autonomous decision-making systems. I follow modern AI trends closely and apply them to engineering tasks.
+
+Beyond my expertise in software, I am experienced in Agile and Scrum methodologies, Jira-based project management, and collaborative R&D processes. My background includes technical documentation, researching papers, patent draft preparation, academic-level reporting, and delivering modern presentations.
 
 I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators, AGVs, Mobile Robots, and Rovers. Also, I have experience with Artificial Intelligence algorithms such as Machine Learning, Deep Learning, Reinforcement Learning and Computer Vision. In my scientific background, I am qualified in Kinematics, Dynamics, Linear Algebra, Control Theory, Probability, Sensor Fusion, Kalman Filters, Statistics, Data Science, Optimization, Genetic Algorithms and Image Processing.
 
@@ -92,9 +92,8 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 - EtherCAT and MODBUS.
 
 ### Contacts
- - Mail -> mehmet.kahraman@mcflyrobot.com
- - Linkedin -> https://www.linkedin.com/in/mehmet-kahraman-robotics-engineer
- - Github -> https://github.com/mehmet-engineer
- - Fiverr -> https://www.fiverr.com/mehmetengineer
- - Udemy -> https://www.udemy.com/user/mehmet-kahraman-38
- - Kariyer Net -> https://www.kariyer.net/ozgecmis/mehmetkahraman2000
+ - Mail -> kahramanxx10@gmail.com
+ - Linkedin -> linkedin.com/in/mehmet-kahraman-robotics-engineer
+ - Github -> github.com/mehmet-engineer
+ - Fiverr -> fiverr.com/mehmetengineer
+ - Udemy -> udemy.com/user/mehmet-kahraman-38
