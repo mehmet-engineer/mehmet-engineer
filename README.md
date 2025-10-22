@@ -1,5 +1,5 @@
 ## Mehmet KAHRAMAN
-**_Mechatronics and R&D Robotics Software Engineer_**
+**_Robotics and R&D Software Engineer_**
 
 _Mail: kahramanxx10@gmail.com_
 
@@ -68,11 +68,11 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 
 ---
 ### Areas of Interest
- - Robotics, Robotic Manipulators, Cobots, Mobile Robots, AGVs, Rovers, Autonomous Systems, 
+ - Robotics, Robotic Manipulators, Cobots, Humanoid Robots, Mobile Robots, AGVs, Autonomous Systems, 
  - Control Theory, Linear Control Systems, PID Control, Kinematics, Dynamics, Linear Algebra,
  - Sensor Fusion, Probability, Kalman Filters, Low Pass Filters,
  - Genetic Algorithms, Statistics, Data Science, Data Visualization, Image Processing,
- - Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Convolutional Neural Networks.
+ - Artificial Intelligence, Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision.
 
 ### All My Skills
 - Python, C++, CMake, Object Oriented Programming (OOP),
@@ -80,20 +80,22 @@ I am interested in Robotics and Autonomous Systems such as Cobots, Manipulators,
 - Jira Project Management, Scrum & Agile Methodologies,
 - IPC Socket Programming, ZeroMQ, TCP and UNIX Sockets,
 - ABB Robot Studio, Rapid, RoboDK, FlexSim, SprutCAM, ENCY,
+- Robot Visualization, RViz, Vista, VTK,
 - Universal Robot, TM Omron, Han's Robot programming,
-- OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn, YOLO,
+- ZED 2 Stereo Depth Camera, Depth Sensing, Point Cloud processing,
+- OpenCV, Pytorch, Tensorflow, Keras, Sci-kit learn,
+- YOLO Object Detection, Segmentation, Object Tracking,
 - Web Javascript, PyQT5, GUI and Desktop App Development, 
 - Multithreading, Multitasking, Concurrency, Parallelism,
 - Numpy, Pandas, Data Entry, Data Manipulation Libraries,
-- Office Excel (advanced), Matplotlib, Data Visualization,
+- Microsoft Office Excel, Matplotlib, Data Visualization,
 - MATLAB and Simulink, PID Control, Linear Control,
 - Sensor Fusion, Kalman Filters, Low Pass Filters,
 - Arduino, Raspberry Pi and Nvidia Jetson Nano Boards,
-- EtherCAT and MODBUS.
+- Industrial Communications, EtherCAT and MODBUS.
 
 ### Contacts
  - Mail -> kahramanxx10@gmail.com
  - Linkedin -> linkedin.com/in/mehmet-kahraman-robotics-engineer
  - Github -> github.com/mehmet-engineer
- - Fiverr -> fiverr.com/mehmetengineer
  - Udemy -> udemy.com/user/mehmet-kahraman-38
